@@ -35,5 +35,13 @@
   "CoffeeShop": {
     "dataSource": "mysqlDs",
     "public": true
+  },
+  "review": {
+    "dataSource": "mysqlDB",
+    "public": true
+  },
+  "reviewer": {
+    "dataSource": "mysqlDB",
+    "public": true
   }
 }
